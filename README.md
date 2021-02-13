@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @thahir369
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hi there, I'm thahir369 👋
+- I'm a Professional Developer, Learner, and founder of MY company
+- 🌱currently working in microservices
+- 👀interested in Data Science
+- 📫reach me here ahmedthahir369@gmail.com
 
 <!---
 thahir369/thahir369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
