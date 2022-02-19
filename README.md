@@ -1,4 +1,4 @@
-## Hi there, I'm thahir369 👋
+## Hi there, I'm Thahir Thavvagunta 👋
 - I'm a Professional Developer, Learner, and founder of MY company
 - 🌱currently working in microservices
 - 👀interested in Data Science
